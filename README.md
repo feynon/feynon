@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2024 - To: 29 April 2024
+From: 23 April 2024 - To: 30 April 2024
 
-Total Time: 3 hrs 35 mins
+Total Time: 1 hr 16 mins
 
-MDX                       2 hrs 35 mins   ██████████████████░░░░░░░   72.22 %
-WebGPU Shading Language   21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Text                      13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-JavaScript                11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-TypeScript                4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+MDX                       26 mins         ████████▓░░░░░░░░░░░░░░░░   35.25 %
+WebGPU Shading Language   21 mins         ███████░░░░░░░░░░░░░░░░░░   28.09 %
+Text                      13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+TypeScript                4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Markdown                  3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
