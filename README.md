@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2024 - To: 28 May 2024
+From: 22 May 2024 - To: 29 May 2024
 
-Total Time: 28 mins
+Total Time: 38 mins
 
-Rust                      14 mins         █████████████░░░░░░░░░░░░   52.06 %
-MDX                       13 mins         ████████████░░░░░░░░░░░░░   47.91 %
-TOML                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript                24 mins         ████████████████▒░░░░░░░░   65.08 %
+MDX                       13 mins         ████████▓░░░░░░░░░░░░░░░░   34.92 %
+Rust                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Other                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 WebGPU Shading Language   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
