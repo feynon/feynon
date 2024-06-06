@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2024 - To: 04 June 2024
+From: 29 May 2024 - To: 05 June 2024
 
-Total Time: 1 hr 50 mins
+Total Time: 1 hr 33 mins
 
-JavaScript   47 mins         ██████████▓░░░░░░░░░░░░░░   42.90 %
-MDX          28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
-Rust         14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Makefile     12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Python       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+MDX          36 mins         ██████████░░░░░░░░░░░░░░░   39.41 %
+JavaScript   22 mins         ██████░░░░░░░░░░░░░░░░░░░   23.98 %
+Rust         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+Makefile     12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Python       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
