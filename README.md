@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2024 - To: 09 June 2024
+From: 03 June 2024 - To: 10 June 2024
 
-Total Time: 3 hrs 4 mins
+Total Time: 2 hrs 31 mins
 
-Rust                      1 hr 35 mins    █████████████░░░░░░░░░░░░   51.62 %
-WebGPU Shading Language   30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-MDX                       25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Makefile                  12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-JavaScript                11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Rust                      1 hr 20 mins    █████████████▒░░░░░░░░░░░   53.11 %
+WebGPU Shading Language   30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+MDX                       23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+JavaScript                11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+TOML                      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
