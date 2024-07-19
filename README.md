@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2024 - To: 17 July 2024
+From: 11 July 2024 - To: 18 July 2024
 
-Total Time: 14 hrs 57 mins
+Total Time: 15 hrs 2 mins
 
-MDX           13 hrs 4 mins   █████████████████████▓░░░   86.03 %
-JavaScript    1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Git Config    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Other         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JSON          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+MDX           12 hrs 51 mins  █████████████████████░░░░   84.06 %
+JavaScript    1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Rust          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Git Config    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Other         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
