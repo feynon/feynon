@@ -1,13 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2024 - To: 05 August 2024
+From: 30 July 2024 - To: 06 August 2024
 
-Total Time: 3 hrs 5 mins
+Total Time: 2 hrs 30 mins
 
-MDX        3 hrs 4 mins    ████████████████████████▓   99.17 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+MDX        1 hr 55 mins    ███████████████████▒░░░░░   77.04 %
+HTML       32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
