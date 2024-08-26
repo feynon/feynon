@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 24 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-Total Time: 2 hrs 59 mins
+Total Time: 3 hrs 47 mins
 
-MDX    2 hrs 20 mins   ███████████████████▓░░░░░   78.40 %
-HTML   38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
+MDX    3 hrs 6 mins    ████████████████████▓░░░░   82.06 %
+HTML   40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
 ```
 
 <!--END_SECTION:waka-->
