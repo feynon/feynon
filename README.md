@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2024 - To: 02 September 2024
+From: 27 August 2024 - To: 03 September 2024
 
-Total Time: 56 mins
+Total Time: 16 mins
 
-HTML       33 mins         ███████████████░░░░░░░░░░   60.06 %
-MDX        18 mins         ████████░░░░░░░░░░░░░░░░░   32.40 %
-Markdown   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+HTML       10 mins         ████████████████░░░░░░░░░   64.22 %
+MDX        4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
 ```
 
 <!--END_SECTION:waka-->
