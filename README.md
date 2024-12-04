@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 02 December 2024
+From: 26 November 2024 - To: 03 December 2024
 
-Total Time: 1 hr 15 mins
+Total Time: 1 hr 39 mins
 
-JavaScript   30 mins         ██████████░░░░░░░░░░░░░░░   40.20 %
-HTML         15 mins         █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-MDX          12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-JSON         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Rust         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+HTML          43 mins         ███████████░░░░░░░░░░░░░░   43.49 %
+JavaScript    30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.68 %
+MDX           12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+JSON          11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Image (svg)   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
